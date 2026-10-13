@@ -1,0 +1,11 @@
+{
+  "name": "ech-sub-live",
+  "version": "1.0.0",
+  "description": "Auto-refreshed v2ray subscription with valid ECHConfigList (GitHub Action)",
+  "type": "module",
+  "scripts": {
+    "update": "node update.mjs",
+    "test": "node --test test/"
+  },
+  "license": "MIT"
+}
